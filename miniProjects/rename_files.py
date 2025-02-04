@@ -1,7 +1,7 @@
 import os
 
 
-directory = "C://Users/abdul/Desktop/moh/unicord/unicord/images/sosyal-medya"
+directory = "Directory_name"
 
 file_extensions = ['.jpg', '.png', '.jpeg']
 

